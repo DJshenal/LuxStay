@@ -83,7 +83,7 @@ function Home() {
       </div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 mt-6 "  >
-        <h2 className="text-3xl font-bold text-gray-900 mb-8" data-aos="fade-right">Featured Rooms</h2>
+        <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center" data-aos="fade-right">Featured Rooms</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {data.rooms.map((room) => (
             <div key={room.id} className="bg-white rounded-lg shadow-md overflow-hidden" data-aos="fade-up">

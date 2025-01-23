@@ -3,7 +3,7 @@
       {
         "id": "room1",
         "title": "Deluxe Suite",
-        "price": "$299",
+        "price": "20,000",
         "image": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=300",
         "description": "Experience the epitome of comfort and elegance in our Deluxe Suite. Perfect for travelers who seek a blend of style and functionality, this spacious suite offers breathtaking views that elevate your stay to unforgettable heights.",
         "room-images":["https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkZ5uLeTTnIi6Da2cjeRrvG50L1s8MJeehg&s","https://img.freepik.com/free-photo/luxury-bedroom-hotel_1150-10836.jpg?t=st=1737571292~exp=1737574892~hmac=114bf17115c35ade26a84366cbf37b25350aecf345ad1a8b3f8185967751a841&w=996"]
@@ -11,7 +11,7 @@
       {
         "id": "room2",
         "title": "Executive Room",
-        "price": "$199",
+        "price": "30,000",
         "image": "https://images.unsplash.com/photo-1591088398332-8a7791972843?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=300",
         "description": "Experience the epitome of comfort and elegance in our Deluxe Suite. Perfect for travelers who seek a blend of style and functionality, this spacious suite offers breathtaking views that elevate your stay to unforgettable heights.",
         "room-images":["https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkZ5uLeTTnIi6Da2cjeRrvG50L1s8MJeehg&s","https://img.freepik.com/free-photo/luxury-bedroom-hotel_1150-10836.jpg?t=st=1737571292~exp=1737574892~hmac=114bf17115c35ade26a84366cbf37b25350aecf345ad1a8b3f8185967751a841&w=996"]
@@ -19,7 +19,7 @@
       {
         "id": "room3",
         "title": "Premium Suite",
-        "price": "$399",
+        "price": "50,000",
         "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=300",
         "description": "Experience the epitome of comfort and elegance in our Deluxe Suite. Perfect for travelers who seek a blend of style and functionality, this spacious suite offers breathtaking views that elevate your stay to unforgettable heights.",
         "room-images":["https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkZ5uLeTTnIi6Da2cjeRrvG50L1s8MJeehg&s","https://img.freepik.com/free-photo/luxury-bedroom-hotel_1150-10836.jpg?t=st=1737571292~exp=1737574892~hmac=114bf17115c35ade26a84366cbf37b25350aecf345ad1a8b3f8185967751a841&w=996"]
@@ -27,7 +27,7 @@
       {
         "id": "room4",
         "title": "Deluxe Suite",
-        "price": "$299",
+        "price": "20,000",
         "image": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=300",
         "description": "Experience the epitome of comfort and elegance in our Deluxe Suite. Perfect for travelers who seek a blend of style and functionality, this spacious suite offers breathtaking views that elevate your stay to unforgettable heights.",
         "room-images":["https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkZ5uLeTTnIi6Da2cjeRrvG50L1s8MJeehg&s","https://img.freepik.com/free-photo/luxury-bedroom-hotel_1150-10836.jpg?t=st=1737571292~exp=1737574892~hmac=114bf17115c35ade26a84366cbf37b25350aecf345ad1a8b3f8185967751a841&w=996"]
@@ -35,7 +35,7 @@
       {
         "id": "room5",
         "title": "Executive Room",
-        "price": "$199",
+        "price": "30,000",
         "image": "https://images.unsplash.com/photo-1591088398332-8a7791972843?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=300",
         "description": "Experience the epitome of comfort and elegance in our Deluxe Suite. Perfect for travelers who seek a blend of style and functionality, this spacious suite offers breathtaking views that elevate your stay to unforgettable heights.",
         "room-images":["https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkZ5uLeTTnIi6Da2cjeRrvG50L1s8MJeehg&s","https://img.freepik.com/free-photo/luxury-bedroom-hotel_1150-10836.jpg?t=st=1737571292~exp=1737574892~hmac=114bf17115c35ade26a84366cbf37b25350aecf345ad1a8b3f8185967751a841&w=996"]
@@ -43,7 +43,7 @@
       {
         "id": "room6",
         "title": "Premium Suite",
-        "price": "$399",
+        "price": "50,000",
         "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=300",
         "description": "Experience the epitome of comfort and elegance in our Deluxe Suite. Perfect for travelers who seek a blend of style and functionality, this spacious suite offers breathtaking views that elevate your stay to unforgettable heights.",
         "room-images":["https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkZ5uLeTTnIi6Da2cjeRrvG50L1s8MJeehg&s","https://img.freepik.com/free-photo/luxury-bedroom-hotel_1150-10836.jpg?t=st=1737571292~exp=1737574892~hmac=114bf17115c35ade26a84366cbf37b25350aecf345ad1a8b3f8185967751a841&w=996"]
