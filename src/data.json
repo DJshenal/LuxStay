@@ -113,7 +113,7 @@
       "overview": [
         { "title": "Total Bookings", "value": "396", "color": "bg-blue-500" },
         { "title": "Completed", "value": "256", "color": "bg-green-500" },
-        { "title": "Pending", "value": "120", "color": "bg-yellow-500" },
+        { "title": "Pending", "value": "120",  "color": "bg-yellow-500" },
         { "title": "Cancelled", "value": "20", "color": "bg-red-500" }
       ],
       "paymentStats": {
