@@ -1,0 +1,125 @@
+{
+    "rooms": [
+      {
+        "id": "room1",
+        "title": "Deluxe Suite",
+        "price": "$299",
+        "image": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=300",
+        "description": "Experience the epitome of comfort and elegance in our Deluxe Suite. Perfect for travelers who seek a blend of style and functionality, this spacious suite offers breathtaking views that elevate your stay to unforgettable heights.",
+        "room-images":["https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkZ5uLeTTnIi6Da2cjeRrvG50L1s8MJeehg&s","https://img.freepik.com/free-photo/luxury-bedroom-hotel_1150-10836.jpg?t=st=1737571292~exp=1737574892~hmac=114bf17115c35ade26a84366cbf37b25350aecf345ad1a8b3f8185967751a841&w=996"]
+      },
+      {
+        "id": "room2",
+        "title": "Executive Room",
+        "price": "$199",
+        "image": "https://images.unsplash.com/photo-1591088398332-8a7791972843?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=300",
+        "description": "Experience the epitome of comfort and elegance in our Deluxe Suite. Perfect for travelers who seek a blend of style and functionality, this spacious suite offers breathtaking views that elevate your stay to unforgettable heights.",
+        "room-images":["https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkZ5uLeTTnIi6Da2cjeRrvG50L1s8MJeehg&s","https://img.freepik.com/free-photo/luxury-bedroom-hotel_1150-10836.jpg?t=st=1737571292~exp=1737574892~hmac=114bf17115c35ade26a84366cbf37b25350aecf345ad1a8b3f8185967751a841&w=996"]
+      },
+      {
+        "id": "room3",
+        "title": "Premium Suite",
+        "price": "$399",
+        "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=300",
+        "description": "Experience the epitome of comfort and elegance in our Deluxe Suite. Perfect for travelers who seek a blend of style and functionality, this spacious suite offers breathtaking views that elevate your stay to unforgettable heights.",
+        "room-images":["https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkZ5uLeTTnIi6Da2cjeRrvG50L1s8MJeehg&s","https://img.freepik.com/free-photo/luxury-bedroom-hotel_1150-10836.jpg?t=st=1737571292~exp=1737574892~hmac=114bf17115c35ade26a84366cbf37b25350aecf345ad1a8b3f8185967751a841&w=996"]
+      },
+      {
+        "id": "room4",
+        "title": "Deluxe Suite",
+        "price": "$299",
+        "image": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=300",
+        "description": "Experience the epitome of comfort and elegance in our Deluxe Suite. Perfect for travelers who seek a blend of style and functionality, this spacious suite offers breathtaking views that elevate your stay to unforgettable heights.",
+        "room-images":["https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkZ5uLeTTnIi6Da2cjeRrvG50L1s8MJeehg&s","https://img.freepik.com/free-photo/luxury-bedroom-hotel_1150-10836.jpg?t=st=1737571292~exp=1737574892~hmac=114bf17115c35ade26a84366cbf37b25350aecf345ad1a8b3f8185967751a841&w=996"]
+      },
+      {
+        "id": "room5",
+        "title": "Executive Room",
+        "price": "$199",
+        "image": "https://images.unsplash.com/photo-1591088398332-8a7791972843?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=300",
+        "description": "Experience the epitome of comfort and elegance in our Deluxe Suite. Perfect for travelers who seek a blend of style and functionality, this spacious suite offers breathtaking views that elevate your stay to unforgettable heights.",
+        "room-images":["https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkZ5uLeTTnIi6Da2cjeRrvG50L1s8MJeehg&s","https://img.freepik.com/free-photo/luxury-bedroom-hotel_1150-10836.jpg?t=st=1737571292~exp=1737574892~hmac=114bf17115c35ade26a84366cbf37b25350aecf345ad1a8b3f8185967751a841&w=996"]
+      },
+      {
+        "id": "room6",
+        "title": "Premium Suite",
+        "price": "$399",
+        "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=300",
+        "description": "Experience the epitome of comfort and elegance in our Deluxe Suite. Perfect for travelers who seek a blend of style and functionality, this spacious suite offers breathtaking views that elevate your stay to unforgettable heights.",
+        "room-images":["https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkZ5uLeTTnIi6Da2cjeRrvG50L1s8MJeehg&s","https://img.freepik.com/free-photo/luxury-bedroom-hotel_1150-10836.jpg?t=st=1737571292~exp=1737574892~hmac=114bf17115c35ade26a84366cbf37b25350aecf345ad1a8b3f8185967751a841&w=996"]
+      }
+    ],
+    "bookings": [
+      {
+        "id": "BK001",
+        "customerName": "John Doe",
+        "email": "john@gmail.com",
+        "phone": "+941 123-4567",
+        "checkIn": "2024-03-15",
+        "checkOut": "2024-03-18",
+        "roomType": "Deluxe Suite",
+        "guests": 2,
+        "status": "Confirmed",
+        "amount": "LKR25,000",
+        "paymentStatus": "Paid",
+        "specialRequests": "Early check-in requested",
+        "bookingDate": "2024-02-28"
+      },
+      {
+        "id": "BK002",
+        "customerName": "Jane Smith",
+        "email": "jane@gmail.com",
+        "phone": "+941 123-4567",
+        "checkIn": "2024-03-20",
+        "checkOut": "2024-03-22",
+        "roomType": "Executive Room",
+        "guests": 1,
+        "status": "Pending",
+        "amount": "LKR18,000",
+        "paymentStatus": "Pending",
+        "specialRequests": "High floor preferred",
+        "bookingDate": "2024-03-01"
+      }
+    ],
+    "payments": [
+      {
+        "id": "PAY001",
+        "bookingId": "BK001",
+        "customerName": "John Doe",
+        "amount": "LKR25,000",
+        "status": "Completed",
+        "date": "2024-03-15",
+        "method": "Credit Card"
+      },
+      {
+        "id": "PAY002",
+        "bookingId": "BK002",
+        "customerName": "Jane Smith",
+        "amount": "LKR18,000",
+        "status": "Pending",
+        "date": "2024-03-20",
+        "method": "Bank Transfer"
+      }
+    ],
+    "stats": {
+      "bookingStats": [
+        { "name": "Jan", "bookings": 65 },
+        { "name": "Feb", "bookings": 59 },
+        { "name": "Mar", "bookings": 80 },
+        { "name": "Apr", "bookings": 81 },
+        { "name": "May", "bookings": 56 },
+        { "name": "Jun", "bookings": 55 }
+      ],
+      "overview": [
+        { "title": "Total Bookings", "value": "396", "color": "bg-blue-500" },
+        { "title": "Completed", "value": "256", "color": "bg-green-500" },
+        { "title": "Pending", "value": "120", "color": "bg-yellow-500" },
+        { "title": "Cancelled", "value": "20", "color": "bg-red-500" }
+      ],
+      "paymentStats": {
+        "totalRevenue": "LKR120,875",
+        "pendingPayments": "5",
+        "todaysTransactions": "12"
+      }
+    }
+  }
