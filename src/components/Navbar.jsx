@@ -71,7 +71,11 @@ function Navbar() {
           <div className="pt-2 pb-3 flex flex-col items-center ">
             <div className="flex justify-center items-center">
               <Link to="/admin">
-                <CgProfile size={30} />
+                <button
+                  className="block px-3 py-2 text-center font-medium text-gray-900 hover:bg-gray-50"
+                >
+                  Profile
+                </button>
               </Link>
             </div>
             <button
