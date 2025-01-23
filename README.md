@@ -1,8 +1,16 @@
-# React + Vite
+LuxStay Hotel Room Booking Website
+LuxStay is a modern and elegant hotel room booking website UI built using React.js. It provides an intuitive and user-friendly interface for users to explore and book hotel rooms effortlessly.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 Live Preview
+Check out the live site here: LuxStay Live Preview
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
+Interactive UI: Sleek and responsive design for a seamless user experience.
+Hotel Room Booking Interface: Easily explore available rooms and details.
+Admin Site Access: Switch to the admin panel by clicking on the profile icon.
+React Router Integration: Smooth navigation between pages without reloads.
+🚀 Technologies Used
+React.js: Frontend framework for building dynamic user interfaces.
+React Router: For implementing client-side routing.
+Tailwind CSS: To style the components with a modern and responsive design.
+Netlify: Deployed for fast and reliable hosting.
