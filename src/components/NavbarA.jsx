@@ -2,6 +2,8 @@ import { Link } from 'react-router-dom';
 import { useState } from 'react';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
 
+import { CgProfile } from "react-icons/cg";
+
 function NavbarA() {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -20,8 +22,13 @@ function NavbarA() {
                 Bookings
               </Link>
               <Link to="/admin/payments" className="text-gray-900 hover:text-amber-600 px-3 py-2 rounded-md text-sm font-medium">
-                Payments              </Link>
-
+                Payments
+              </Link>
+              <div className="flex justify-center items-center">
+                <Link to="/">
+                  <CgProfile size={30} />
+                </Link>
+              </div>
             </div>
           </div>
 
@@ -43,6 +50,11 @@ function NavbarA() {
       {isOpen && (
         <div className="sm:hidden">
           <div className="pt-2 pb-3 ">
+            <div className="flex justify-center items-center">
+              <Link to="/">
+                <CgProfile size={30} />
+              </Link>
+            </div>
             <Link
               to="/admin"
               className="block px-3 py-2 text-center font-medium text-gray-900 hover:bg-gray-50"

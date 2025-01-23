@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import { useState } from 'react';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
+import { CgProfile } from "react-icons/cg";
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -10,7 +11,7 @@ function Navbar() {
     if (element) {
       element.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
-    setIsOpen(false); 
+    setIsOpen(false);
   };
 
   return (
@@ -19,12 +20,12 @@ function Navbar() {
         <div className="flex justify-between h-16 ">
           <div className="flex justify-between items-center w-full">
             <div className="">
-            <Link to="/" className="flex-shrink-0 flex items-center">
-              <span className="text-2xl font-bold text-amber-600">LuxStay</span>
-            </Link>
+              <Link to="/" className="flex-shrink-0 flex items-center">
+                <span className="text-2xl font-bold text-amber-600">LuxStay</span>
+              </Link>
             </div>
             <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
-            <button
+              <button
                 onClick={() => handleScrollToSection('home')}
                 className="text-gray-900 hover:text-amber-600 px-3 py-2  font-semibold"
               >
@@ -42,9 +43,14 @@ function Navbar() {
               >
                 Contact
               </button>
+              <div className="flex justify-center items-center">
+                <Link to="/admin">
+                  <CgProfile size={30} />
+                </Link>
+              </div>
             </div>
           </div>
-          
+
           <div className="sm:hidden flex items-center   justify-center">
             <button
               onClick={() => setIsOpen(!isOpen)}
@@ -63,22 +69,28 @@ function Navbar() {
       {isOpen && (
         <div className="sm:hidden">
           <div className="pt-2 pb-3 flex flex-col items-center ">
-          <button
-                onClick={() => handleScrollToSection('home')}
-                className="block px-3 py-2 text-center font-medium text-gray-900 hover:bg-gray-50"
-              >
-                Home
-              </button>
-              <button
-                onClick={() => handleScrollToSection('about')}
-                className="block px-3 py-2 text-center font-medium text-gray-900 hover:bg-gray-50"              >
-                About
-              </button>
-              <button
-                onClick={() => handleScrollToSection('contact')}
-                className="block px-3 py-2 text-center font-medium text-gray-900 hover:bg-gray-50"              >
-                Contact
-              </button>
+            <div className="flex justify-center items-center">
+              <Link to="/admin">
+                <CgProfile size={30} />
+              </Link>
+            </div>
+            <button
+              onClick={() => handleScrollToSection('home')}
+              className="block px-3 py-2 text-center font-medium text-gray-900 hover:bg-gray-50"
+            >
+              Home
+            </button>
+            <button
+              onClick={() => handleScrollToSection('about')}
+              className="block px-3 py-2 text-center font-medium text-gray-900 hover:bg-gray-50"              >
+              About
+            </button>
+            <button
+              onClick={() => handleScrollToSection('contact')}
+              className="block px-3 py-2 text-center font-medium text-gray-900 hover:bg-gray-50"              >
+              Contact
+            </button>
+
           </div>
         </div>
       )}
